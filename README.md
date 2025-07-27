@@ -4,12 +4,14 @@ Welcome to my **100 Days of DSA** journey!
 In this repository, I commit to solving one Data Structures & Algorithms problem every day — building consistency, improving logic, and sharpening problem-solving skills.
 
 ---
-
 ## 📅 Progress Tracker
 
-| Day | Problem           | Topic | Platform | Solution                                |
-|-----|-------------------|-------|----------|-----------------------------------------|
-| 1   | Palindrome Number | Math  | LeetCode | [Code](./Day01/PalindromeNumber.java)   |
+| Day | Problem           | Topic  | Platform | Solution                                |
+|-----|-------------------|--------|----------|-----------------------------------------|
+| 1   | Palindrome Number | Math   | LeetCode | [Code](./Day01/PalindromeNumber.java)   |
+| 2   | Power of Two      | Bitwise| LeetCode | [Code](./Day02/PowerOfTwo.java)         |
+| 3   | Fibonacci Series  | Recursion/Loop | Basic DSA | [Code](./Day03/FibonacciSeries.java)   |
+
 
 ---
 
