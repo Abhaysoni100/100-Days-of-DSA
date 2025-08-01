@@ -12,6 +12,7 @@ In this repository, I commit to solving one Data Structures & Algorithms problem
 | 2   | Power of Two         | Bitwise    | LeetCode | [Code](./Day02/PowerOfTwo.java)           |
 | 3   | Fibonacci Series     | Recursion  | Basic DSA| [Code](./Day03/FibonacciSeries.java)      |
 | 4   | Tribonacci Number    | DP         | LeetCode | [Code](./Day04/TribonacciNumber.java)     |
+| 5   | Water Bottle         | Math       | Leetcode | [Code] (./Day05/WaterBottle.java)         |
 
 
 ---
